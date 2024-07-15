@@ -65,16 +65,8 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://vk.com/anton_naubayer" target="_blank">
-<img src="https://www.svgrepo.com/svg/349554/vk" alt=github style="margin-bottom: 5px;" />
+<img src="![image](https://github.com/user-attachments/assets/c962a24b-cf7a-4aaf-b230-b3c7282c4e32)
+" alt=VK style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
-
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
