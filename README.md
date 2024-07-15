@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anton Naibayer. I’m a backend developer" src="./Frame 11.png" /></a></p>
 </div>  
   
 
@@ -63,29 +63,13 @@
 <div align="center">
 <a href="https://github.com/kritspace123" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://vk.com/anton_naubayer" target="_blank">
+<img src="https://www.svgrepo.com/svg/349554/vk" alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-  
 
 <br/>  
 
