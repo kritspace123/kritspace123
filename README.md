@@ -62,6 +62,6 @@
 ## Connect with me  
 <div align="center">
 <a href="https://vk.com/anton_naubayer" target="_blank"><img src="https://github.com/user-attachments/assets/c962a24b-cf7a-4aaf-b230-b3c7282c4e32" alt=VK style="margin-bottom: 5px;" height="50"/></a>
-<a href="@AntonNaubayer" target="_blank"><img src="https://telegramapp.github.io/img/t_logo.png" alt=TG style="margin-bottom: 5px;" height="50"/></a>  
+<a href="https://t.me/AntonNaubayer" target="_blank"><img src="https://telegramapp.github.io/img/t_logo.png" alt=TG style="margin-bottom: 5px;" height="50"/></a>  
 </div>  
   
