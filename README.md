@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Anton Naibayer, a full-time backend freelance developer 👨‍💻 </div>  
+### <div align="center">I'm Anton Naibayer, a full-time backend developer 👨‍💻 </div>  
   
 
 - 🌱 I’m currently learning  Kubernetes  
